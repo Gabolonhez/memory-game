@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #fc1e8a;
+    background: #1e0d4d;
     user-select: none;
 }
 
@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    background: linear-gradient(325deg,#03001e 0%, #7303c0 30%, #ec38bc 70%, #fdeff9 100%);
+    background: linear-gradient(325deg,#03001e 0%, #331447 30%, #47153a 70%, #300d26 100%);
     padding: 40px 60px;
 }
 
@@ -23,6 +23,9 @@ h2 {
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+}
+h2:hover {
+    color: #000;
 }
 
 .reset {
