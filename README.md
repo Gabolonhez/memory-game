@@ -1,5 +1,5 @@
 # Memory Game
-![Badge](https://img.shields.io/badge/ReparaTec-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/MemoryGame-%237159c1?style=for-the-badge&logo=ghost)
 
 ## 📑 Descrição
 
