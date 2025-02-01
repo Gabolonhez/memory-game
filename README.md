@@ -7,12 +7,10 @@
 
 Jogo da memória desenvolvido durante um curso pela DIO.
 
-<!-- ## 🎯 Funcionalidades
+## 🎯 Funcionalidades
 
-- [x] `Cadastro e acesso dos usuários`: Permite os usuários cadastrar e acessar a plataforma (técnico ou empresa). 
-<br>
-- [x] `Solicitações de serviços`: Permite Abertura, busca, agendamento, listagem, encerramento e avaliação de solicitações de serviços. <br>
-- [x] `Demais funcionalidades`: Permite realizar conexões, conversa via chat, página de financeiro e página para feedback. -->
+- [x] `Selecionar quadrados`: Permite os usuários escolhar as cartas para jogar. <br>
+- [x] `Selecionar quadrados`: Permite reiniciar o jogo do zero.
 
 ## 💻 Tecnologias 
 
