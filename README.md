@@ -8,8 +8,8 @@ Jogo da memória desenvolvido durante um curso pela DIO.
 
 ## 🎯 Funcionalidades
 
-- [x] `Selecionar quadrados`: Permite os usuários escolhar as cartas para jogar. <br>
-- [x] `Selecionar quadrados`: Permite reiniciar o jogo do zero.
+- [x] Permite os usuários escolhar as cartas para jogar. <br>
+- [x] Permite reiniciar o jogo do zero.
 
 ## 💻 Tecnologias 
 
