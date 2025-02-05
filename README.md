@@ -13,9 +13,9 @@ Jogo da memória desenvolvido durante um curso pela DIO.
 
 ## 💻 Tecnologias 
 
-`HTML`
+- `HTML`
 
-`CSS`
+- `CSS`
 
-`JavaScript`
+- `JavaScript`
 
