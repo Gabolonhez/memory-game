@@ -2,7 +2,6 @@
 # Memory Game
 ![image](https://github.com/user-attachments/assets/51ea6e2d-53e5-4cd6-90d5-fda79ca7552b)
 
-
 ## 📑 Descrição
 
 Jogo da memória desenvolvido durante um curso pela DIO.
@@ -14,14 +13,9 @@ Jogo da memória desenvolvido durante um curso pela DIO.
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
+`HTML`
 
-`CSS`: Utilizado para estilização da interface do aplicativo.
+`CSS`
 
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
+`JavaScript`
 
-
-
-## 🚧 Licença:
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
