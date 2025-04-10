@@ -4,7 +4,7 @@
 
 ## 📑 Descrição
 
-Jogo da memória desenvolvido durante um curso pela DIO.
+Jogo da memória.
 
 ## 🎯 Funcionalidades
 
